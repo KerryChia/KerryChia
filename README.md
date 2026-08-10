@@ -26,7 +26,8 @@
 
 ## 📊 GitHub 数据
 
-![KerryChia's GitHub stats](https://github-readme-stats.vercel.app/api?username=KerryChia&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![GitHub followers](https://img.shields.io/github/followers/KerryChia?style=social)
+![GitHub stars](https://img.shields.io/github/stars/KerryChia?affiliations=OWNER&style=social)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KerryChia.KerryChia)
 
