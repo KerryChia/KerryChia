@@ -14,6 +14,7 @@
 - 🌐 个人主页：[kerrychia.site](https://kerrychia.site)
 - 🔭 正在做：数理思维 + AI 项目、Vibe Coding 教学
 - 🌱 在学：大模型、数据分析、AI 工程
+- 🏛️ 中国人民大学区块链协会（RUChain）
 - ⚡ 兴趣：用 AI 工具高效解决真实问题
 
 ## 📫 联系我
@@ -25,7 +26,7 @@
 
 ## 📊 GitHub 数据
 
-![KerryChia's GitHub stats](https://github-readme-stats.vercel.app/api?username=KerryChia&show_icons=true&theme=default)
+![KerryChia's GitHub stats](https://github-readme-stats.vercel.app/api?username=KerryChia&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KerryChia.KerryChia)
 
