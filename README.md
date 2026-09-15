@@ -14,7 +14,7 @@
 - 🌐 个人主页：[kerrychia.site](https://kerrychia.site)
 - 🔭 正在做：数理思维 + AI 项目、Vibe Coding 教学
 - 🌱 在学：大模型、数据分析、AI 工程
-- 🏛️ 中国人民大学区块链协会（RUChain）
+- 🏛️ 中国人民大学区块链协会（RUChain）会长
 - ⚡ 兴趣：用 AI 工具高效解决真实问题
 
 ## 📫 联系我
