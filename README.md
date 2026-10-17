@@ -10,7 +10,7 @@
 
 中国人民大学 · 数据计算及应用（数据智能方向）· 2029 届
 
-[中文主页](https://yuzhou.ltd/) · [English website](https://kerrychia.site/) · [GitHub](https://github.com/KerryChia) · [X](https://x.com/kerrychia999)
+[中文主页](https://yuzhou.ltd/) · [English website](https://kerrychia.site/) · [X](https://x.com/kerrychia999)
 
 Exploring data, AI and blockchain through building and writing. / 以项目与写作探索数据、AI 和区块链，在构建中理解问题。
 
